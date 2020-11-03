@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 Octopus in IT and startup worlds from the Russian ocean. https://www.linkedin.com/in/mrpopov/
 
-Originally from Saint-Petersburg, living in Slovenia. Business runner and ruiner. I’m software engineer with passion for scalable and high-loaded systems. 
+Originally from Saint-Petersburg, living in Slovenia. Business runner and ruiner. I’m software engineer with passion for scalable, distributed and high-loaded systems. In love with greek sculps, antique architecture, renaissance paintings and my muse.
 
-Helping other companies to grow. 📈 #TechScaling In a meanwhile I have title of Technical Team Lead on big media project. 
+Helping other companies and individuals to find balance between business and engineering. Contact me for consultation or personal mentoring session. 
 
-In the past I used to work as research agent, fullstack engineer, project manager and business runner. I worked on quite a few IT projects with primary focus on business logic, architecture, system scaling, data flows and data storages. As every casual entrepreneur I have bunch of failed startups 🤷🏻‍♂️. 
+In the past I used to work as research agent, full-stack engineer, technical team lead, project manager and business runner. I worked on quite a few IT projects with primary focus on business logic, architecture, system scaling, data flows and data storages. As every casual entrepreneur I have bunch of failed startups 🤷🏻‍♂️. 
 
 I don’t have preferred technology, In my opinion you have to choose language or specific technology based on your problem.
 
-Do it best or don’t do it at all. Don't forget to procrastinate well. I hate running treadmill that’s why I’m running businesses. 
+Do it best or don’t do it at all. Don't forget to procrastinate well.

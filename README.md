@@ -26,3 +26,5 @@ In the past I used to work as research agent, full-stack engineer, technical tea
 I don’t have preferred technology, In my opinion you have to choose language or specific technology based on your problem.
 
 Do it best or don’t do it at all. Don't forget to procrastinate well. 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lalabuy948&show_icons=true&theme=radical)

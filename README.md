@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 Samurai warrior in IT and Startup whirlpools from the Russian ocean. Known as lalabuy948
 
-- https://github.com/lalabuy948
+- https://mrpopov.com/
 - https://www.linkedin.com/in/mrpopov/
-
-<a href="https://twitter.com/lalabuy948?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-show-count="false">Follow @lalabuy948</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Originally from Saint-Petersburg, used to live in Slovenia, currently living in Luxembourg. I’m software engineer / team lead / manager / head of IT with passion for scalable, distributed and high-loaded systems. In love with greek sculps, antique architecture, renaissance paintings and my muse of course.
 

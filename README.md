@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://mrpopov.com">
-    My meaningless notes
+    My meaningless notes 📘
   </a>
 </p>
 

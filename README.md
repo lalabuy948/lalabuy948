@@ -1,10 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+# Greetings 👋
 
-<p align="center">
-  <a href="https://mrpopov.com">
-    My meaningless notes 📘
-  </a>
-</p>
+[My meaningless notes 📘](https://mrpopov.com)
 
 <!--
 **lalabuy948/lalabuy948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

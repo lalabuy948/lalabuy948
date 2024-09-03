@@ -14,5 +14,12 @@
 <div>
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=lalabuy948&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=lalabuy948&theme=onedark&hide_border=true"/>
-    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=lalabuy948&row=1&theme=onedark&no-frame=true"/>
+<!--     <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=lalabuy948&row=1&theme=onedark&no-frame=true"/> -->
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lalabuy948&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lalabuy948&icon=0&color=0)](https://visitcount.itsvg.in)
+

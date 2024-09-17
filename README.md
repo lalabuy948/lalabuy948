@@ -3,7 +3,7 @@
 [My meaningless notes 📘](https://mrpopov.com)
 
 - 🎩 Result-oriented Senior Software Engineer and hands-on Engineering Manager with a proven track record.
-- 👨🏻‍💻 Programming was always my passion, especialy building highly robust and scalable systems.
+- 👨🏻‍💻 Programming was always my passion, especialy building robust and highly scalable systems.
 - 🚀 I have aquired 10+ years expireince of building and designing backend systems. (distributed, event driven, highly available)
 - 📚 During spare time I work on expending my expertise to various domains within the IT industry.
 - 🔧 For 5+ years I led cross-functional development teams, significantly reduced developers churn and resolved substantial tech debt.

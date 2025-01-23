@@ -9,6 +9,7 @@
 - 🚀 I have aquired 10+ years expireince of building and designing backend systems. (distributed, event driven, highly available)
 - 📚 During spare time I work on expending my expertise to various domains within the IT industry.
 - 🔧 For 5+ years I led cross-functional development teams, significantly reduced developers churn and resolved substantial tech debt.
+- ⚡️ Now specialize in building highly-scalable, data intense and robust applications. As well as building high performing teams to boost current development needs.
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lalabuy948&show_icons=true&theme=radical) -->
 

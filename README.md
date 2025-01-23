@@ -2,7 +2,7 @@
 
 ### [1703 Group](https://1703.lu/)
 
-[My meaningless notes 📘](https://mrpopov.com)
+<!-- [My meaningless notes 📘](https://mrpopov.com) -->
 
 - 🎩 Result-oriented Senior Software Engineer and hands-on Engineering Manager with a proven track record.
 - 👨🏻‍💻 Programming was always my passion, especialy building robust and highly scalable systems.

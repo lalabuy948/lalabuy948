@@ -2,6 +2,10 @@
 
 ### [1703 Group](https://1703.lu/)
 
+- 🎥 [https://cyanview.com](https://cyanview.com)
+- 🗨️ [https://feedbackx.app](https://feedbackx.app)
+- 🍿 [https://aliasx.app](https://aliasx.app)
+
 <!-- [My meaningless notes 📘](https://mrpopov.com) -->
 
 - 🎩 Result-oriented engineer and agency runner with a proven track record.

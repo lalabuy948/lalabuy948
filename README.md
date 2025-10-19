@@ -4,8 +4,7 @@
 
 - 🎥 [https://cyanview.com](https://cyanview.com)
 - 🗨️ [https://feedbackx.app](https://feedbackx.app)
-- 🍿 [https://aliasx.app](https://aliasx.app)
-- ✒️ [https://anagramsx.app/](https://anagramsx.app)
+- 🎮 [https://genserver.io](https://genserver.io)
 
 <!-- [My meaningless notes 📘](https://mrpopov.com) -->
 

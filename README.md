@@ -3,7 +3,6 @@
 ### [1703 Group](https://1703.lu/)
 
 - 🎥 [https://cyanview.com](https://cyanview.com)
-- 🗨️ [https://feedbackx.app](https://feedbackx.app)
 - 📝 [My notes 📘](https://mrpopov.com)
 
 - Entreprenuer, Software engineer.
